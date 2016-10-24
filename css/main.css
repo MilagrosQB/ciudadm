@@ -1,0 +1,25 @@
+*{
+	box-sizing: border-box;
+	margin:0px;
+	padding:0px;
+	font-family: 'Ubuntu', sans-serif;
+
+}
+
+.main-home{
+	background: url("../images/photography-main.jpg") no-repeat;
+	height: 475px;
+    background-size: cover;
+    position: relative;
+    color: #FFFFFF;
+}
+
+.main-home .col-md-6 h2{
+	margin: 26% 15%;
+}
+
+.projects{
+	background-color: #fcbe32;
+	height: 375px;
+
+}

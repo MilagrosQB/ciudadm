@@ -8,7 +8,7 @@
 
 .main-home{
 	background: url("../images/photography-main.jpg") no-repeat;
-	height: 475px;
+	height: auto;
     background-size: cover;
     position: relative;
     color: #FFFFFF;
@@ -18,34 +18,12 @@
 	margin: 26% 15%;
 }
 
-.quienes-somos{
-	background-color: #fcbe32;
-	color: #000000;
-	height: 375px;
-
+.about-info{
+	font-size: 18px;
 }
+
 .projects{
-	background-color: #000000;
-	color: #FFFFFF;
-	height: 375px;
-
-}
-.servicios{
 	background-color: #fcbe32;
-	color: #000000;	
 	height: 375px;
-
-}
-.staff{
-	background-color: #000000;
-	color: #FFFFFF;	
-	height: 375px;
-
-}
-.contacto{
-	background-color: #fcbe32;
-	color: #000000;
-	height: 375px;
-
 
 }

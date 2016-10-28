@@ -525,7 +525,7 @@ ul.social li a.fa:hover { background-color: #333333 }
 }
 /* Why Us or Features Section */
 #tf-features,
-#feature { padding: 60px 0 }
+#feature { padding: 60px 0; background-color: #f3f3f3;}
 .features-content { padding: 0 30px 0 }
 .features-content h4 {
     text-transform: uppercase;

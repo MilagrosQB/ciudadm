@@ -20,6 +20,18 @@
 
 .about-info{
 	font-size: 18px;
+	color: #ffffff;
+	font-weight: bold;
+}
+
+.staff-member{
+	width: 100%;
+	height: auto;
+}
+
+.staff-img:hover{
+	background-color: #E5B112;
+	opacity: 0.5;
 }
 
 .projects{
